@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="315f97f3-ad52-4f4a-a961-663197df2b68" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/main_mac_changer.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_mac_changer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.py" beforeDir="false" afterPath="$PROJECT_DIR$/readme.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,8 +16,8 @@
       <file leaf-file-name="main_mac_changer.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main_mac_changer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+            <state relative-caret-position="165">
+              <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
               <folding>
                 <element signature="e#110#127#0" expanded="true" />
               </folding>
@@ -196,8 +195,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main_mac_changer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        <state relative-caret-position="165">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
           <folding>
             <element signature="e#110#127#0" expanded="true" />
           </folding>
