@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="315f97f3-ad52-4f4a-a961-663197df2b68" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/main_mac_changer.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_mac_changer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,7 +13,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="main_mac_changer.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main_mac_changer.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main_mac_changer.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="198">
@@ -24,6 +24,15 @@
                 <element signature="e#185#427#0" />
                 <element signature="e#1041#1311#0" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -59,6 +68,7 @@
         <option value="$PROJECT_DIR$/สส.py" />
         <option value="$PROJECT_DIR$/readme.py" />
         <option value="$PROJECT_DIR$/main_mac_changer.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -211,6 +221,13 @@
             <element signature="e#185#427#0" />
             <element signature="e#1041#1311#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
         </state>
       </provider>
     </entry>
