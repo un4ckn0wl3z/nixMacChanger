@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="315f97f3-ad52-4f4a-a961-663197df2b68" name="Default" comment="" />
+    <list default="true" id="315f97f3-ad52-4f4a-a961-663197df2b68" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/main_mac_changer.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_mac_changer.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,8 +16,8 @@
       <file leaf-file-name="main_mac_changer.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main_mac_changer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="173">
-              <caret line="51" column="45" lean-forward="true" selection-start-line="51" selection-start-column="45" selection-end-line="51" selection-end-column="45" />
+            <state relative-caret-position="198">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
               <folding>
                 <element signature="e#110#127#0" expanded="true" />
                 <element signature="e#165#706#0" />
@@ -60,7 +62,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="85" />
     <option name="y" value="25" />
     <option name="width" value="1750" />
@@ -201,8 +203,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main_mac_changer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="51" column="45" lean-forward="true" selection-start-line="51" selection-start-column="45" selection-end-line="51" selection-end-column="45" />
+        <state relative-caret-position="198">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
           <folding>
             <element signature="e#110#127#0" expanded="true" />
             <element signature="e#165#706#0" />
